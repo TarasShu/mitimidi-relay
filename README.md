@@ -123,3 +123,5 @@ Edit `main.c` to change:
 - **No Bluetooth**: Ensure CYW43 initialized properly
 - **Relays not switching**: Check GPIO connections and relay voltage requirements
 - **No console output**: Verify UART connections (GPIO 0/1) and baud rate (115200)
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/771195cc-cbc4-4781-a747-ae34003009cf" />
